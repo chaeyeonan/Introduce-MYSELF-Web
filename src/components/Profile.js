@@ -12,7 +12,7 @@ const Profile = () => {
                     <br/>MINOR : 경영학
                 </p>
                 <p>
-                    안녕하세요 :)
+                    안녕하세요
                 </p>
             </div>
     );
